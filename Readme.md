@@ -2,37 +2,37 @@
 
 
 
-\## Inspiration
+## Inspiration
 
 The website I used to find CSGO ZE servers disappeared, and most alternatives miss Chinese servers, include servers I don’t join, or are full of ads. So I built my own tool to scan and list my favorite ZE servers, and let me join them with one click.
 
 
 
-\## Features
+## Features
 
-\- Scan servers from `server\_list.txt`
+- Scan servers from `server\_list.txt`
 
-\- Show server name, map, players, and ping
+- Show server name, map, players, and ping
 
-\- Web UI with clickable IPs (`steam://connect/...`) to join instantly
+- Web UI with clickable IPs (`steam://connect/...`) to join instantly
 
-\- Save results to `servers\_output.csv`
+- Save results to `servers\_output.csv`
 
 
 
-\## Requirements
+## Requirements
 
-\- Windows (only tested on Windows)
+- Windows (only tested on Windows)
 
-\- Python \*\*3.10+\*\*
+- Python \*\*3.10+\*\*
 
-\- Dependencies installed automatically via:
+- Dependencies installed automatically via:
 
 pip install -r requirements.txt
 
 
 
-\## server\_list.txt Format
+## server\_list.txt Format
 
 Each line = `IP\[:PORT] | ServerName` (server name optional). Examples:
 
@@ -44,29 +44,29 @@ Each line = `IP\[:PORT] | ServerName` (server name optional). Examples:
 
 
 
-\## Quick Start
+## Quick Start
 
-1\. Install Python 3.10+
+1. Install Python 3.10+
 
-2\. Clone/download this project
+2. Clone/download this project
 
-3\. (Optional) create virtual env:
+3. (Optional) create virtual env:
 
 python -m venv venv
 
 .\\venv\\Scripts\\activate
 
-4\. Install requirements:
+4. Install requirements:
 
 pip install -r requirements.txt
 
-5\. Edit `server\_list.txt` with your servers
+5. Edit `server\_list.txt` with your servers
 
-6\. Run the program:
+6. Run the program:
 
-\- Double-click \*\*run.bat\*\*, \*\*or\*\*
+- Double-click \*\*run.bat\*\*, \*\*or\*\*
 
-\- Run manually:
+- Run manually:
 
 &nbsp; ```
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 &nbsp; ```
 
-7\. Open browser at `http://127.0.0.1:5000/`
+7. Open browser at `http://127.0.0.1:5000/`
 
 
 
