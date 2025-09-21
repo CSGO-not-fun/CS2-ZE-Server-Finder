@@ -1,0 +1,28 @@
+ip,name,online,player_count,max_players,map,ping_ms,jitter_ms,ping_method,error
+74.91.124.21:27015,GFL,True,62,64,ze_last_man_standing_p,40,0,ICMP,
+202.189.10.190:27001,EXG 06,True,1,64,ze_mountain_escape_snow,283,1,ICMP,
+202.189.4.212:27001,EXG 01,True,0,64,ze_simple_teamplay_p,272,1,ICMP,
+202.189.5.227:27001,EXG 13,True,0,64,ze_voodoo_islands_p,284,0,ICMP,
+202.189.10.86:27001,EXG 02,True,0,64,ze_simple_teamplay_p,271,4,ICMP,
+202.189.5.225:27001,EXG 12,True,0,64,ze_floating_rocks_survival,267,2,ICMP,
+202.189.10.208:27001,EXG 11,True,0,64,ze_new_italy_cs2,284,1,ICMP,
+87.98.228.196:27040,Mapeadores,True,49,64,ze_ffxiv_wanderers_palace_v6_2,204,1,A2S,
+202.189.4.124:27001,EXG 03,True,0,64,ze_blackmesa_escape_p,255,21,A2S,
+110.42.9.195:27111,UB 11,True,0,64,ze_knife_stray_p,439,26,A2S,
+110.42.9.195:27131,UB 13,True,0,64,ze_pools_part2,447,24,A2S,
+cs5.zombieden.cn:27016,Zed 06,True,0,64,ze_scourge_p,445,23,A2S,
+110.42.9.127:27051,UB 05,True,0,64,ze_colors_p,454,21,A2S,
+cs5.zombieden.cn:27015,Zed 05,True,0,64,ze_p_v_z,444,11,A2S,
+110.42.9.188:27011,UB 01,True,0,64,ze_biohazard2_rpd_004_p,456,8,A2S,
+110.42.9.188:27031,UB 03,True,0,64,ze_world_escapes,466,3,A2S,
+cs3.zombieden.cn:27015,Zed 03,True,0,64,ze_guye_room,453,34,A2S,
+110.42.9.188:27021,UB 02,True,0,64,ze_pools_part2,457,17,A2S,
+110.42.9.127:27071,UB 07,True,0,64,ze_texturescape_cs2_l,465,10,A2S,
+110.42.9.195:27121,UB 12,True,0,64,ze_insanitycity_t,451,16,A2S,
+cs3.zombieden.cn:27016,Zed 04,True,0,64,ze_xuyanzhiting_jiushu,455,14,A2S,
+110.42.9.127:27061,UB 06,True,0,64,ze_watagi_sanatorium,455,17,A2S,
+cs1.zombieden.cn:27016,Zed 02,True,0,64,ze_aztecnoob_p,485,12,A2S,
+202.189.4.234:27001,EXG 07,False,,,,,,,timed out
+202.189.10.196:27001,EXG 08,False,,,,,,,timed out
+202.189.10.184:27001,EXG 04,False,,,,,,,timed out
+202.189.4.230:27001,EXG 05,False,,,,,,,timed out
