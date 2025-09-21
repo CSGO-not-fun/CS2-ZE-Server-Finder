@@ -1,4 +1,4 @@
-\# CSGO ZE Server Finder
+# CSGO ZE Server Finder
 
 
 
